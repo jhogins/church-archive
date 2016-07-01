@@ -2,21 +2,25 @@
   "type": "array",
   "format": "tabs",
   "items": {
-    "type": {
-      "name": "sermon",
-      "properties": {
-        "TITLE": { "type": "string"},
-        "SCRIPTURE REF": {
-          "type": "string",
-          "description": "Scripture references"
-        },
-        "DATE": {
-          "type": "string",
-          "format": "date",
-          "description": "Sermon date"
-        }
+    "type": "object",
+    "name": "sermon",
+    "required": ["TITLE", "DATE"],
+    "properties": {
+      "TITLE": { 
+        "type": "string",
+        "desctiption": "Sermon title",
+        "minLength": 5
+      },
+      "SCRIPTURE REF": {
+        "type": "string",
+        "description": "Scripture references"
+      },
+      "DATE": {
+        "type": "string",
+        "format": "date",
+        "pattern": "^[0-9][0-9][0-9][0-9]-[0-9][0-9]-[0-9][0-9]$",
+        "description": "Sermon date"
       }
     }
-    
   }
 }
