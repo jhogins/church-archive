@@ -1,0 +1,19 @@
+{
+  "name": "church-archive",
+  "version": "1.0.0",
+  "description": "A sermon archive for church",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhogins/church-archive.git"
+  },
+  "author": "Jonathan Hogins",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/jhogins/church-archive/issues"
+  },
+  "homepage": "https://github.com/jhogins/church-archive#readme"
+}

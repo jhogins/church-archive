@@ -1,0 +1,24 @@
+{
+  "properties": {
+    "sermons": {
+      "type": "array",
+      "format": "table",
+      "items": {
+        "type": {
+          "name": "sermon",
+          "options": {
+            "collapsed": true
+          },
+          "properties": {
+            "name": { "type": "string"},
+            "date": {
+              "type": "string",
+              "description": "Sermon date"
+            }
+          }
+        }
+        
+      }
+    }
+  }
+}
