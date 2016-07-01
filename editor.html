@@ -5,6 +5,8 @@
     <title>Church Sermon Archive Editor</title>
     <script src="./lib/jsoneditor.js"></script>
     <script src="https://code.jquery.com/jquery-3.0.0.min.js"></script>
+    <script src="./lib/blob.js"></script>
+    <script src="./node_modules/file-saver/FileSaver.js"></script>
     <!-- Foundation CSS framework (Bootstrap and jQueryUI also supported) -->
     <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/foundation/6.2.3/foundation.min.css'>
     <!-- Font Awesome icons (Bootstrap, Foundation, and jQueryUI also supported) -->
@@ -13,14 +15,36 @@
   <body>
     <h1>RBC Sermon Archive Editor</h1>
     
+    <button id='save' class='tiny'>Save (sermonarchive.json)</button>
     <div id='editor_holder'></div>
     
     <script>
       JSONEditor.defaults.theme = 'foundation5';
       JSONEditor.defaults.iconlib = 'fontawesome4';
+
       $.getJSON('./archiveschema.json', function(data) {
         // Initialize the editor with a JSON schema
         var editor = new JSONEditor(document.getElementById('editor_holder'), { schema: data });
+
+          document.getElementById('save').addEventListener("click", function(event) {
+            var errors = editor.validate();
+            if (errors.length)
+            {
+              alert("Cannot save. There are errors in the document.")
+            }
+            else
+            {
+              event.preventDefault();
+              saveAs(
+                  new Blob(
+                    //TODO:jsonify
+                    editor.getValue()
+                  , {type: "text/plain;charset=utf-8"}
+                )
+                , "sermonarchive.txt"
+              );
+            }
+          }, false);
       })
     </script>
   </body>

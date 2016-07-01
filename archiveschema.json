@@ -1,24 +1,22 @@
 {
-  "properties": {
-    "sermons": {
-      "type": "array",
-      "format": "table",
-      "items": {
-        "type": {
-          "name": "sermon",
-          "options": {
-            "collapsed": true
-          },
-          "properties": {
-            "name": { "type": "string"},
-            "date": {
-              "type": "string",
-              "description": "Sermon date"
-            }
-          }
+  "type": "array",
+  "format": "tabs",
+  "items": {
+    "type": {
+      "name": "sermon",
+      "properties": {
+        "TITLE": { "type": "string"},
+        "SCRIPTURE REF": {
+          "type": "string",
+          "description": "Scripture references"
+        },
+        "DATE": {
+          "type": "string",
+          "format": "date",
+          "description": "Sermon date"
         }
-        
       }
     }
+    
   }
 }

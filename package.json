@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jhogins/church-archive/issues"
   },
-  "homepage": "https://github.com/jhogins/church-archive#readme"
+  "homepage": "https://github.com/jhogins/church-archive#readme",
+  "dependencies": {
+    "file-saver": "^1.3.2"
+  }
 }
