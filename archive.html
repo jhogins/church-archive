@@ -5,50 +5,44 @@
     <title>Church Sermon Archive</title>
     <script src="https://code.jquery.com/jquery-3.0.0.min.js"></script>
     <script src="https://cdn.datatables.net/1.10.12/js/jquery.dataTables.min.js"></script>
-    
-    <script src="./node_modules/file-saver/FileSaver.js"></script>
-    <!-- Foundation CSS framework (Bootstrap and jQueryUI also supported) -->
-    <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/foundation/6.2.3/foundation.min.css'>
-    <!-- Font Awesome icons (Bootstrap, Foundation, and jQueryUI also supported) -->
-    <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.css'>
+    <link rel='stylesheet' href='https://cdn.datatables.net/1.10.12/css/jquery.dataTables.min.css'>
   </head>
   <body>
-    <h1>RBC Sermon Archive Editor</h1>
+    <h1>RBC Sermon Archive</h1>
     
-    <button id='save' class='tiny'>Save (sermonarchive.json)</button>
-    <div id='editor_holder'></div>
+    <table id="data" class="display" cellspacing="0" width="100%">
+        <thead>
+            <tr>
+                <th>Date</th>
+                <th>Title</th>
+                <th>Scripture Ref</th>
+            </tr>
+        </thead>
+        <tfoot>
+            <tr>
+                <th>Date</th>
+                <th>Title</th>
+                <th>Scripture Ref</th>
+            </tr>
+        </tfoot>
+    </table>
     
     <script>
-      JSONEditor.defaults.theme = 'foundation5';
-      JSONEditor.defaults.iconlib = 'fontawesome4';
-
-      $.getJSON('./archiveschema.json', function(data) {
-        // Initialize the editor with a JSON schema
-        var editor = new JSONEditor(document.getElementById('editor_holder'), 
-        { 
-          schema: data,
-          show_errors: 'interaction'
-        });
-          document.getElementById('save').addEventListener("click", function(event) {
-            var errors = editor.validate();
-            if (errors.length)
-            {
-              alert("Cannot save. There are errors in the document.");
-            }
-            else
-            {
-              event.preventDefault();
-              var stjson = JSON.stringify(editor.getValue(), null, 4);
-              saveAs(
-                  new Blob(
-                    [stjson], 
-                    {type: "text/plain;charset=utf-8"}
-                )
-                , "sermonarchive.json"
-              );
-            }
-          }, false);
-      })
+     $(document).ready(function() {
+          $('#data').DataTable( {
+              "ajax": {
+                "url": "sermonarchive_test.json",
+                "dataSrc": function(json) {
+                  return json;
+                }
+              },
+              "columns": [
+                  { "data": "DATE" },
+                  { "data": "TITLE" },
+                  { "data": "SCRIPTURE REF" }
+              ]
+          } );
+      } );
     </script>
   </body>
 </html>

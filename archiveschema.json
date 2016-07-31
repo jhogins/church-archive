@@ -5,6 +5,15 @@
     "type": "object",
     "name": "sermon",
     "required": ["TITLE", "DATE"],
+    "links": [
+      {
+        "href": "http://sermons.rentonbiblechurch.org/sermons/{{self.DATE}}.mp3",
+        "mediaType": "audio/mpeg",
+        "watch": {
+          "da": "DATE"
+        }
+      }
+    ],
     "properties": {
       "TITLE": { 
         "type": "string",

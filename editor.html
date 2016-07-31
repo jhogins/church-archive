@@ -23,31 +23,43 @@
       JSONEditor.defaults.iconlib = 'fontawesome4';
 
       $.getJSON('./archiveschema.json', function(data) {
+        var myengine = {
+          compile: function(template) {
+            // Compile should return a render function
+            return function(vars) {
+              // A real template engine would render the template here
+              var result = template;
+              return result;
+            }
+          }
+        };
+
         // Initialize the editor with a JSON schema
         var editor = new JSONEditor(document.getElementById('editor_holder'), 
         { 
           schema: data,
+          //template: myengine,
           show_errors: 'interaction'
         });
-          document.getElementById('save').addEventListener("click", function(event) {
-            var errors = editor.validate();
-            if (errors.length)
-            {
-              alert("Cannot save. There are errors in the document.");
-            }
-            else
-            {
-              event.preventDefault();
-              var stjson = JSON.stringify(editor.getValue(), null, 4);
-              saveAs(
-                  new Blob(
-                    [stjson], 
-                    {type: "text/plain;charset=utf-8"}
-                )
-                , "sermonarchive.json"
-              );
-            }
-          }, false);
+        document.getElementById('save').addEventListener("click", function(event) {
+          var errors = editor.validate();
+          if (errors.length)
+          {
+            alert("Cannot save. There are errors in the document.");
+          }
+          else
+          {
+            event.preventDefault();
+            var stjson = JSON.stringify(editor.getValue(), null, 4);
+            saveAs(
+                new Blob(
+                  [stjson], 
+                  {type: "text/plain;charset=utf-8"}
+              )
+              , "sermonarchive.json"
+            );
+          }
+        }, false);
       })
     </script>
   </body>
