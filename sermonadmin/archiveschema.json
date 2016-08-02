@@ -27,9 +27,8 @@
       },
       "DATE": {
         "type": "string",
-        "format": "date",
-        "pattern": "^[0-9][0-9][0-9][0-9]-[0-9][0-9]-[0-9][0-9]$",
-        "title": "Sermon date"
+        "pattern": "^[0-9]?[0-9]-[0-9]?[0-9]-[0-9][0-9]$",
+        "title": "Sermon date (DD-MM-YY)"
       }
     }
   }
