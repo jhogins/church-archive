@@ -3,8 +3,9 @@
   "format": "tabs",
   "items": {
     "type": "object",
-    "name": "sermon",
-    "required": ["TITLE", "DATE"],
+    "title": "Sermon",
+    "headerTemplate": "{{ self.DATE }}: {{ self.TITLE }}",
+    "required": ["TITLE", "DATE", "SCRIPTURE REF"],
     "links": [
       {
         "href": "http://sermons.rentonbiblechurch.org/sermons/{{self.DATE}}.mp3",
@@ -17,18 +18,18 @@
     "properties": {
       "TITLE": { 
         "type": "string",
-        "desctiption": "Sermon title",
+        "title": "Title",
         "minLength": 5
       },
       "SCRIPTURE REF": {
         "type": "string",
-        "description": "Scripture references"
+        "title": "Scripture references"
       },
       "DATE": {
         "type": "string",
         "format": "date",
         "pattern": "^[0-9][0-9][0-9][0-9]-[0-9][0-9]-[0-9][0-9]$",
-        "description": "Sermon date"
+        "title": "Sermon date"
       }
     }
   }

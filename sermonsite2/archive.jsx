@@ -5,9 +5,12 @@ var ItemList = React.createClass({
     };
   },
   componentDidMount: function(e) {
-    this.serverRequest = $.get(this.props.source, function(result) {
-      this.setState({items: result});
-    }.bind(this));
+    this.serverRequest = $.ajax({
+      url: this.props.source, 
+      cache: false, 
+      success: function(result) {
+        this.setState({items: result});
+    }.bind(this)});
   },
   render: function() {
     var dgDisplayItem = function(item, index) {

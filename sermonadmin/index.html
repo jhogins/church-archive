@@ -11,18 +11,31 @@
     <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/foundation/6.2.3/foundation.min.css'>
     <!-- Font Awesome icons (Bootstrap, Foundation, and jQueryUI also supported) -->
     <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.css'>
+        <link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+    <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
   </head>
   <body>
     <h1>RBC Sermon Archive Editor</h1>
     
-    <button id='save' class='tiny'>Save (sermonarchive.json)</button>
+    <button id='save' type="button" class="btn btn-primary">Save</button> <i>should to go RBCNAS/web/sermonsite2/sermonarchive.json</i>
     <div id='editor_holder'></div>
     
     <script>
-      JSONEditor.defaults.theme = 'foundation5';
-      JSONEditor.defaults.iconlib = 'fontawesome4';
+      JSONEditor.defaults.theme = 'bootstrap3';
+      JSONEditor.defaults.iconlib = 'bootstrap3';
 
-      $.getJSON('./archiveschema.json', function(data) {
+      var schema;
+      var data;
+      $.ajaxSetup({ cache: false });
+      var getSchema = $.getJSON('./archiveschema.json', 
+        function(result) {
+          schema = result;
+        });
+      var getData = $.getJSON('../sermonsite2/sermonarchive.json', 
+        function(result) {
+          data = result;
+        });
+      $.when(getSchema, getData).then(function(result) {
         var myengine = {
           compile: function(template) {
             // Compile should return a render function
@@ -37,9 +50,10 @@
         // Initialize the editor with a JSON schema
         var editor = new JSONEditor(document.getElementById('editor_holder'), 
         { 
-          schema: data,
+          schema: schema,
           //template: myengine,
-          show_errors: 'interaction'
+          show_errors: 'interaction',
+          startval: data,
         });
         document.getElementById('save').addEventListener("click", function(event) {
           var errors = editor.validate();
@@ -60,7 +74,7 @@
             );
           }
         }, false);
-      })
+      });
     </script>
   </body>
 </html>
