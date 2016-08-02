@@ -1,0 +1,26 @@
+body {
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 15px;
+	color: #222222;
+	line-height: 1.7;
+}
+.desc {
+	float:left;
+	width: 50%;
+	margin-right: 8%;
+	margin-left: 8%;
+	margin-top: 4px;
+	margin-right: 4px;
+	margin-left: 4px;
+}
+.date {
+	float:right;
+	width: 20%;
+}
+.item {
+	background-color: #eeeeee;
+	margin-top: 10px;
+	border-bottom: 1px;
+	border-color: #cccccc;
+	padding: 5px 5px 5px 5px;
+}
