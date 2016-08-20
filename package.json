@@ -18,6 +18,7 @@
   "homepage": "https://github.com/jhogins/church-archive#readme",
   "dependencies": {
     "express": "^4.12.4",
+    "express-ipfilter": "^0.1.0",
     "file-saver": "^1.3.2",
     "handlebars": "^4.0.5"
   }

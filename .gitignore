@@ -1,2 +1,4 @@
 /node_modules
 /sermonadmin/node_modules
+/sermonsite2/archivebackups
+/*.sublime-workspace
