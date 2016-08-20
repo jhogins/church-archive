@@ -2,9 +2,9 @@
   "name": "church-archive",
   "version": "1.0.0",
   "description": "A sermon archive for church",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/jhogins/church-archive#readme",
   "dependencies": {
+    "express": "^4.12.4",
     "file-saver": "^1.3.2",
     "handlebars": "^4.0.5"
   }
