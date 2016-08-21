@@ -17,7 +17,19 @@ var ItemList = React.createClass({
       return (
         <div key={index} className="item">
           <div className="row">
-            <div className="col-sm-8"><h4>{item.TITLE}</h4>
+            <div className="text-center col-sm-2 row">
+              <div className="text-center col-xs-6">
+                <a download href={'http://sermons.rentonbiblechurch.org/sermons/' + item.DATE + '.mp3'}>
+                  <h1><span className="glyphicon glyphicon-download"></span></h1>
+                </a>
+              </div>
+              <div className="text-center col-xs-6">
+                <a href={'http://sermons.rentonbiblechurch.org/sermons/' + item.DATE + '.mp3'}>
+                  <h1><span className="glyphicon glyphicon-play-circle"></span></h1>
+                </a>
+              </div>
+            </div>
+            <div className="col-sm-6"><h4>{item.TITLE}</h4>
               <h5>{item["SCRIPTURE REF"]}</h5></div>
             <div className="col-sm-4"><h5>{item.DATE}</h5></div>
           </div>
