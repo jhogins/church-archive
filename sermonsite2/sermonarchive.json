@@ -1,17 +1,2192 @@
 [
-    {
-        "TITLE": "21 Qualities of a Good Leader",
-        "SCRIPTURE REF": "1Timothy 3",
-        "DATE": "1-10-10"
-    },
-    {
-        "TITLE": "A Changed Life",
-        "SCRIPTURE REF": "Acts 3:1-10",
-        "DATE": "11-7-10"
-    },
-    {
-        "TITLE": "Hello!",
-        "SCRIPTURE REF": "hello dearest son",
-        "DATE": "01-02-88"
-    }
+  {
+     "DATE":"9-16-07"
+    ,"TITLE":"Altar Building"
+    ,"SCRIPTURE REF":"Gen 12-13"
+  },
+  {
+     "DATE":"9-23-07"
+    ,"TITLE":"Someone to Watch Over Me"
+    ,"SCRIPTURE REF":"Gen 16"
+  },
+  {
+     "DATE":"9-30-07"
+    ,"TITLE":"Knowing God"
+    ,"SCRIPTURE REF":""
+  },
+  {
+     "DATE":"10-07-07"
+    ,"TITLE":"Trustworthy"
+    ,"SCRIPTURE REF":"2 Tim 3:16"
+  },
+  {
+     "DATE":"10-14-07"
+    ,"TITLE":"I Need Thee"
+    ,"SCRIPTURE REF":"Col. 3:1-17 & Psalm 1"
+  },
+  {
+     "DATE":"10-21-07"
+    ,"TITLE":"God's Story Part 1"
+    ,"SCRIPTURE REF":""
+  },
+  {
+     "DATE":"10-28-07"
+    ,"TITLE":"God's Story Part 2"
+    ,"SCRIPTURE REF":""
+  },
+  {
+     "DATE":"11-04-07"
+    ,"TITLE":"Letting God's Word Speak"
+    ,"SCRIPTURE REF":"2 Tim 3:16"
+  },
+  {
+     "DATE":"11-11-07"
+    ,"TITLE":"Uncovering the Message"
+    ,"SCRIPTURE REF":"Romans 15:4"
+  },
+  {
+     "DATE":"11-18-07"
+    ,"TITLE":"So What?"
+    ,"SCRIPTURE REF":"James 1:22-25"
+  },
+  {
+     "DATE":"11-25-07"
+    ,"TITLE":"Thanksgiving 2007"
+    ,"SCRIPTURE REF":""
+  },
+  {
+     "DATE":"12-02-07"
+    ,"TITLE":"The Servant Messiah"
+    ,"SCRIPTURE REF":"Isaiah 52-53"
+  },
+  {
+     "DATE":"12-09-07"
+    ,"TITLE":"The Humble Messiah"
+    ,"SCRIPTURE REF":"Matthew 1"
+  },
+  {
+     "DATE":"12-16-07"
+    ,"TITLE":"\"Worship Christ"
+    ,"SCRIPTURE REF":" the King\""
+  },
+  {
+     "DATE":"12-23-07"
+    ,"TITLE":"The Christmas Story"
+    ,"SCRIPTURE REF":"Luke 2:1-20"
+  },
+  {
+     "DATE":"12-30-07"
+    ,"TITLE":"JESUS:  A Biography"
+    ,"SCRIPTURE REF":"Matthew 2-3"
+  },
+  {
+     "DATE":"1-06-08"
+    ,"TITLE":"JESUS Tested"
+    ,"SCRIPTURE REF":"Matthew 4"
+  },
+  {
+     "DATE":"1-13-08"
+    ,"TITLE":"Following Jesus"
+    ,"SCRIPTURE REF":"Matthew 4:17-25"
+  },
+  {
+     "DATE":"1-20-08"
+    ,"TITLE":"The Beatitudes"
+    ,"SCRIPTURE REF":"Matthew 5:1-12"
+  },
+  {
+     "DATE":"1-27-08"
+    ,"TITLE":"The King's People"
+    ,"SCRIPTURE REF":"Matthew 5:1-16"
+  },
+  {
+     "DATE":"2-03-08"
+    ,"TITLE":"Jesus The Law Abiding Citizen"
+    ,"SCRIPTURE REF":"Matthew 5:17-26"
+  },
+  {
+     "DATE":"2-10-08"
+    ,"TITLE":"Sacred Marriage"
+    ,"SCRIPTURE REF":"Matthew 5:27-32"
+  },
+  {
+     "DATE":"2-17-08"
+    ,"TITLE":"Jesus Ethics"
+    ,"SCRIPTURE REF":"Matthew 5:33-48"
+  },
+  {
+     "DATE":"2-24-08"
+    ,"TITLE":"For Heaven's Sake"
+    ,"SCRIPTURE REF":"Matthew 6:1-18"
+  },
+  {
+     "DATE":"3-02-08"
+    ,"TITLE":"Who Is Jonah"
+    ,"SCRIPTURE REF":"Jonah"
+  },
+  {
+     "DATE":"3-09-08"
+    ,"TITLE":"Kingdom First"
+    ,"SCRIPTURE REF":""
+  },
+  {
+     "DATE":"3-16-08"
+    ,"TITLE":"A Kingly Welcome"
+    ,"SCRIPTURE REF":""
+  },
+  {
+     "DATE":"3-23-08"
+    ,"TITLE":"Tale of Two Gardens"
+    ,"SCRIPTURE REF":""
+  },
+  {
+     "DATE":"3-30-08"
+    ,"TITLE":"To Judge or Not to Judge?"
+    ,"SCRIPTURE REF":""
+  },
+  {
+     "DATE":"4-06-08"
+    ,"TITLE":"Evidence That Demands a Verdict"
+    ,"SCRIPTURE REF":""
+  },
+  {
+     "DATE":"4-13-08"
+    ,"TITLE":"Your Best Life: Immanent"
+    ,"SCRIPTURE REF":""
+  },
+  {
+     "DATE":"4-20-08"
+    ,"TITLE":"Living Sacrifice"
+    ,"SCRIPTURE REF":""
+  },
+  {
+     "DATE":"4-27-08"
+    ,"TITLE":"Those God Helps"
+    ,"SCRIPTURE REF":""
+  },
+  {
+     "DATE":"5-04-08"
+    ,"TITLE":"Wrong Way"
+    ,"SCRIPTURE REF":""
+  },
+  {
+     "DATE":"5-11-08"
+    ,"TITLE":"Ruth: A Woman of Noble Character"
+    ,"SCRIPTURE REF":""
+  },
+  {
+     "DATE":"5-18-08"
+    ,"TITLE":"Jesus Heals: The Trilogy"
+    ,"SCRIPTURE REF":""
+  },
+  {
+     "DATE":"5-25-08"
+    ,"TITLE":"The SON of Man"
+    ,"SCRIPTURE REF":""
+  },
+  {
+     "DATE":"6-01-08"
+    ,"TITLE":"The Merciful Messiah"
+    ,"SCRIPTURE REF":""
+  },
+  {
+     "DATE":"6-08-08"
+    ,"TITLE":"Youth Sunday"
+    ,"SCRIPTURE REF":""
+  },
+  {
+     "DATE":"6-15-08"
+    ,"TITLE":"A Higher Calling"
+    ,"SCRIPTURE REF":""
+  },
+  {
+     "DATE":"6-22-08"
+    ,"TITLE":"War-Time Lifestyles"
+    ,"SCRIPTURE REF":""
+  },
+  {
+     "DATE":"6-29-08"
+    ,"TITLE":"JESUS! Who did you Expect?"
+    ,"SCRIPTURE REF":""
+  },
+  {
+     "DATE":"7-06-08"
+    ,"TITLE":"Rest for the Soul"
+    ,"SCRIPTURE REF":""
+  },
+  {
+     "DATE":"7-13-08"
+    ,"TITLE":"Kingdom Come"
+    ,"SCRIPTURE REF":""
+  },
+  {
+     "DATE":"7-20-08"
+    ,"TITLE":"Final Answer"
+    ,"SCRIPTURE REF":"Matthew "
+  },
+  {
+     "DATE":"7-27-08"
+    ,"TITLE":"\"Skepticism"
+    ,"SCRIPTURE REF":" unbelief"
+  },
+  {
+     "DATE":"8-03-08"
+    ,"TITLE":"Tradition"
+    ,"SCRIPTURE REF":"Matthew 15:1-9"
+  },
+  {
+     "DATE":"8-10-08"
+    ,"TITLE":"Seven Unclean Patterns"
+    ,"SCRIPTURE REF":"Matthew 15:10-20"
+  },
+  {
+     "DATE":"8-17-08"
+    ,"TITLE":"Jesus Loves the Nations"
+    ,"SCRIPTURE REF":"Matthew 15:21-39"
+  },
+  {
+     "DATE":"8-24-08"
+    ,"TITLE":"Waiting for Signs"
+    ,"SCRIPTURE REF":"Matthew 16"
+  },
+  {
+     "DATE":"8-31-08"
+    ,"TITLE":"When GOD Laughs Psalm 2"
+    ,"SCRIPTURE REF":"Psalm 2"
+  },
+  {
+     "DATE":"9-07-08"
+    ,"TITLE":"Embracing the Church"
+    ,"SCRIPTURE REF":"Matthew 16"
+  },
+  {
+     "DATE":"9-14-08"
+    ,"TITLE":"Getting to know your LOGOS"
+    ,"SCRIPTURE REF":"John 1:1-10"
+  },
+  {
+     "DATE":"9-21-08"
+    ,"TITLE":"All or Nothing"
+    ,"SCRIPTURE REF":"Matthew 16:21-28"
+  },
+  {
+     "DATE":"9-28-08"
+    ,"TITLE":"A Glimpse of the Glory of God"
+    ,"SCRIPTURE REF":"Matthew 17:1-13"
+  },
+  {
+     "DATE":"10-05-08"
+    ,"TITLE":"Little Faith"
+    ,"SCRIPTURE REF":"Matthew 17:14-23"
+  },
+  {
+     "DATE":"10-12-08"
+    ,"TITLE":"Christ's Priority"
+    ,"SCRIPTURE REF":"Matthew 17:24-27"
+  },
+  {
+     "DATE":"10-19-08"
+    ,"TITLE":"Greatness Redefined"
+    ,"SCRIPTURE REF":"Matthew 18:1-14"
+  },
+  {
+     "DATE":"10-26-08"
+    ,"TITLE":"Epic (Celebration Sunday)"
+    ,"SCRIPTURE REF":"The Bible"
+  },
+  {
+     "DATE":"11-02-08"
+    ,"TITLE":"War and Peace"
+    ,"SCRIPTURE REF":"Matthew 18:15-20"
+  },
+  {
+     "DATE":"11-09-08"
+    ,"TITLE":"Forgiveness"
+    ,"SCRIPTURE REF":"Matthew 18:21-35"
+  },
+  {
+     "DATE":"11-16-08"
+    ,"TITLE":"Marriage God's Way"
+    ,"SCRIPTURE REF":"Matthew 19:1-12"
+  },
+  {
+     "DATE":"11-23-08"
+    ,"TITLE":"Inheritance"
+    ,"SCRIPTURE REF":"Matthew 19:13-30"
+  },
+  {
+     "DATE":"11-30-08"
+    ,"TITLE":"Inheritance 2"
+    ,"SCRIPTURE REF":"Matthew 20:1-16"
+  },
+  {
+     "DATE":"12-07-08"
+    ,"TITLE":"Greatness Redefined"
+    ,"SCRIPTURE REF":"Matthew 20:17-34"
+  },
+  {
+     "DATE":"12-14-08"
+    ,"TITLE":"I Heard the Bells on Christmas Day"
+    ,"SCRIPTURE REF":"Luke 2:8-14"
+  },
+  {
+     "DATE":"12-21-08"
+    ,"TITLE":"He Still Reigns"
+    ,"SCRIPTURE REF":"Matthew 2:1-12"
+  },
+  {
+     "DATE":"12-28-08"
+    ,"TITLE":"Justin Yert's Sermon"
+    ,"SCRIPTURE REF":""
+  },
+  {
+     "DATE":"1-04-09"
+    ,"TITLE":"Jesus the Messianic King"
+    ,"SCRIPTURE REF":"Matthew 21:1-22"
+  },
+  {
+     "DATE":"1-11-09"
+    ,"TITLE":"Pay Attention!"
+    ,"SCRIPTURE REF":"Matthew 21:23-22:14"
+  },
+  {
+     "DATE":"1-18-09"
+    ,"TITLE":"Render Unto God"
+    ,"SCRIPTURE REF":"Matthew 22:15-33"
+  },
+  {
+     "DATE":"1-25-09"
+    ,"TITLE":"Divine Expectations"
+    ,"SCRIPTURE REF":"Matthew 22:34-40"
+  },
+  {
+     "DATE":"2-01-09"
+    ,"TITLE":"Deacon's Sermon"
+    ,"SCRIPTURE REF":"Psalm 16"
+  },
+  {
+     "DATE":"2-08-09"
+    ,"TITLE":"Authentic Spirituality"
+    ,"SCRIPTURE REF":"Matthew 23"
+  },
+  {
+     "DATE":"2-15-09"
+    ,"TITLE":"Coming Soon"
+    ,"SCRIPTURE REF":"Matthew 24:1-35"
+  },
+  {
+     "DATE":"2-22-09"
+    ,"TITLE":"Ready or Not!"
+    ,"SCRIPTURE REF":"Matthew 24:36-25:13"
+  },
+  {
+     "DATE":"3-01-09"
+    ,"TITLE":"Jesus Is Coming Back"
+    ,"SCRIPTURE REF":"Matthew 25:14-46"
+  },
+  {
+     "DATE":"3-08-09"
+    ,"TITLE":"Jesus Is Coming Back Part 2"
+    ,"SCRIPTURE REF":"Matthew 25:14-46"
+  },
+  {
+     "DATE":"3-15-09"
+    ,"TITLE":"The Passion of the Christ Begins"
+    ,"SCRIPTURE REF":"Matthew 26:1-30"
+  },
+  {
+     "DATE":"3-22-09"
+    ,"TITLE":"The Passion of the Christ The Arrest"
+    ,"SCRIPTURE REF":"Matthew 26:47-75"
+  },
+  {
+     "DATE":"3-29-09"
+    ,"TITLE":"The Passion of the Christ The Trial"
+    ,"SCRIPTURE REF":"Matthew 27:1-31"
+  },
+  {
+     "DATE":"4-05-09"
+    ,"TITLE":"The Passion of the Christ The Crucifixion"
+    ,"SCRIPTURE REF":"Matthew 27:32-66"
+  },
+  {
+     "DATE":"4-12-09"
+    ,"TITLE":"Jesus is Alive"
+    ,"SCRIPTURE REF":"Matthew 28:1-15"
+  },
+  {
+     "DATE":"4-19-09"
+    ,"TITLE":"Responding to Christ's Resurrection"
+    ,"SCRIPTURE REF":"Matthew 28:16-20"
+  },
+  {
+     "DATE":"4-26-09"
+    ,"TITLE":"The Armor of GOD"
+    ,"SCRIPTURE REF":""
+  },
+  {
+     "DATE":"5-03-09"
+    ,"TITLE":"Introduction to Ecclesiastes"
+    ,"SCRIPTURE REF":"Ecclesiastes 1:1"
+  },
+  {
+     "DATE":"5-10-09"
+    ,"TITLE":"Biblical Motherhood"
+    ,"SCRIPTURE REF":"Proverbs 31"
+  },
+  {
+     "DATE":"5-17-09"
+    ,"TITLE":"Meaningless?"
+    ,"SCRIPTURE REF":"Ecclesiastes 1:1-11"
+  },
+  {
+     "DATE":"5-24-09"
+    ,"TITLE":"Vanity Fair Part 1"
+    ,"SCRIPTURE REF":"Ecclesiastes 1:12-2:26"
+  },
+  {
+     "DATE":"5-31-09"
+    ,"TITLE":"Vanity Fair Part 2"
+    ,"SCRIPTURE REF":"Ecclesiastes 1:12-2:26"
+  },
+  {
+     "DATE":"6-07-09"
+    ,"TITLE":"Perspective"
+    ,"SCRIPTURE REF":"Ecclesiastes 3:1-22"
+  },
+  {
+     "DATE":"6-14-09"
+    ,"TITLE":"Matt Johnson Youth Sunday"
+    ,"SCRIPTURE REF":""
+  },
+  {
+     "DATE":"6-21-09"
+    ,"TITLE":"Pro Dad"
+    ,"SCRIPTURE REF":"Proverbs 4:10-27"
+  },
+  {
+     "DATE":"6-28-09"
+    ,"TITLE":"Together"
+    ,"SCRIPTURE REF":"Ecclesiastes 4:1-16"
+  },
+  {
+     "DATE":"7-05-09"
+    ,"TITLE":"Worship"
+    ,"SCRIPTURE REF":"Ecclesiastes 5:1-7"
+  },
+  {
+     "DATE":"7-12-09"
+    ,"TITLE":"Contentment"
+    ,"SCRIPTURE REF":"Ecclesiastes 5:8-6:12"
+  },
+  {
+     "DATE":"7-19-09"
+    ,"TITLE":"Proverbs"
+    ,"SCRIPTURE REF":"Ecclesiastes 7:1-29"
+  },
+  {
+     "DATE":"7-26-09"
+    ,"TITLE":"Frail"
+    ,"SCRIPTURE REF":"Ecclesiastes 8:1-9:18"
+  },
+  {
+     "DATE":"8-02-09"
+    ,"TITLE":"Folly"
+    ,"SCRIPTURE REF":"Ecclesiastes 10:1-20"
+  },
+  {
+     "DATE":"8-09-09"
+    ,"TITLE":"The End"
+    ,"SCRIPTURE REF":"Ecclesiastes 11:1-12:14"
+  },
+  {
+     "DATE":"8-16-09"
+    ,"TITLE":"Following the Master's Example Part 1"
+    ,"SCRIPTURE REF":"John 4:1-18"
+  },
+  {
+     "DATE":"8-23-09"
+    ,"TITLE":"Following the Master's Example Part 2"
+    ,"SCRIPTURE REF":"John 4:19-26"
+  },
+  {
+     "DATE":"8-30-09"
+    ,"TITLE":"Following the Master's Example Part 3"
+    ,"SCRIPTURE REF":"John 4:27-42"
+  },
+  {
+     "DATE":"9-06-09"
+    ,"TITLE":"\"Justin Yert"
+    ,"SCRIPTURE REF":" Shine w- Spiritual Spectacles\""
+  },
+  {
+     "DATE":"9-13-09"
+    ,"TITLE":"The Blessed Life"
+    ,"SCRIPTURE REF":"Psalm 1 "
+  },
+  {
+     "DATE":"9-20-09"
+    ,"TITLE":"Class 101 What is the Church?"
+    ,"SCRIPTURE REF":"Genesis"
+  },
+  {
+     "DATE":"9-27-09"
+    ,"TITLE":"Class 101 What is a Christian?"
+    ,"SCRIPTURE REF":""
+  },
+  {
+     "DATE":"10-04-09"
+    ,"TITLE":"Class 101 Baptism and The Lord's Supper"
+    ,"SCRIPTURE REF":""
+  },
+  {
+     "DATE":"10-11-09"
+    ,"TITLE":"Class 101 Why the Church?"
+    ,"SCRIPTURE REF":"Mark 12:28-31; Matt 28:18-20"
+  },
+  {
+     "DATE":"10-18-09"
+    ,"TITLE":"Class 101 How does the Church Work?"
+    ,"SCRIPTURE REF":"Ephesians 4:1-16"
+  },
+  {
+     "DATE":"10-25-09"
+    ,"TITLE":"Class 101 Who is the Church?"
+    ,"SCRIPTURE REF":"John 17:20-26"
+  },
+  {
+     "DATE":"11-01-09"
+    ,"TITLE":"Worthless Offerings"
+    ,"SCRIPTURE REF":"Isaiah 1:1-20"
+  },
+  {
+     "DATE":"11-08-09"
+    ,"TITLE":"The Master Teacher"
+    ,"SCRIPTURE REF":"Isaiah 2:1-5"
+  },
+  {
+     "DATE":"11-15-09"
+    ,"TITLE":"A People of Justice"
+    ,"SCRIPTURE REF":"Isaiah 5"
+  },
+  {
+     "DATE":"11-22-09"
+    ,"TITLE":"A Song of Thanksgiving"
+    ,"SCRIPTURE REF":"1 Chronicles 16"
+  },
+  {
+     "DATE":"11-29-09"
+    ,"TITLE":"Here Am I"
+    ,"SCRIPTURE REF":"Isaiah 6:8"
+  },
+  {
+     "DATE":"12-06-09"
+    ,"TITLE":"Immanuel God With Us"
+    ,"SCRIPTURE REF":"Isaiah 7:10-16"
+  },
+  {
+     "DATE":"12-13-09"
+    ,"TITLE":"The Promise Revealed"
+    ,"SCRIPTURE REF":"Isaiah 9:1-7"
+  },
+  {
+     "DATE":"12-20-09"
+    ,"TITLE":"All Flesh Will See Him"
+    ,"SCRIPTURE REF":"Isaiah 40:1-11"
+  },
+  {
+     "DATE":"12-27-09"
+    ,"TITLE":"Joshua Williamson Sermon"
+    ,"SCRIPTURE REF":"Luke 2"
+  },
+  {
+     "DATE":"1-03-10"
+    ,"TITLE":"Jesus Paid It All"
+    ,"SCRIPTURE REF":"Isaiah 52-53"
+  },
+  {
+     "DATE":"1-10-10"
+    ,"TITLE":"21 Qualities of a Good Leader"
+    ,"SCRIPTURE REF":"1Timothy3"
+  },
+  {
+     "DATE":"1-17-10"
+    ,"TITLE":"CrossTraining: The Discipline of Worship"
+    ,"SCRIPTURE REF":""
+  },
+  {
+     "DATE":"1-24-10"
+    ,"TITLE":"CrossTraining: The Discipline of Prayer"
+    ,"SCRIPTURE REF":""
+  },
+  {
+     "DATE":"1-31-10"
+    ,"TITLE":"CrossTraining: The Discipline of God's Word "
+    ,"SCRIPTURE REF":""
+  },
+  {
+     "DATE":"2-07-10"
+    ,"TITLE":"CrossTraining: The Discipline of Stewardship "
+    ,"SCRIPTURE REF":""
+  },
+  {
+     "DATE":"2-14-10"
+    ,"TITLE":"CrossTraining: The Discipline of Love "
+    ,"SCRIPTURE REF":""
+  },
+  {
+     "DATE":"2-21-10"
+    ,"TITLE":"A Letter of Instruction  "
+    ,"SCRIPTURE REF":"2 Timothy 1:1-2"
+  },
+  {
+     "DATE":"2-28-10"
+    ,"TITLE":"Fan the Flame "
+    ,"SCRIPTURE REF":" 2 Timothy 1:3-7"
+  },
+  {
+     "DATE":"3-07-10"
+    ,"TITLE":"Unashamed "
+    ,"SCRIPTURE REF":" 2 Timothy 1:8-18"
+  },
+  {
+     "DATE":"3-14-10"
+    ,"TITLE":"Isaiah 43 "
+    ,"SCRIPTURE REF":"Isaiah 43 "
+  },
+  {
+     "DATE":"3-21-10"
+    ,"TITLE":"Persevere  "
+    ,"SCRIPTURE REF":"2 Timothy 2:1-13"
+  },
+  {
+     "DATE":"3-28-10"
+    ,"TITLE":"Bodybuilding  "
+    ,"SCRIPTURE REF":"2 Timothy 2:14-26"
+  },
+  {
+     "DATE":"4-04-10"
+    ,"TITLE":"Rediscovering the Resurrection  "
+    ,"SCRIPTURE REF":"1 Corinthians 15:1-11"
+  },
+  {
+     "DATE":"4-11-10"
+    ,"TITLE":"The Last Days "
+    ,"SCRIPTURE REF":"2 Timothy 3:1-9"
+  },
+  {
+     "DATE":"4-18-10"
+    ,"TITLE":"Thoroughly Equipped "
+    ,"SCRIPTURE REF":"2 Timothy 3:10-17"
+  },
+  {
+     "DATE":"4-25-10"
+    ,"TITLE":"What is a Preacher?"
+    ,"SCRIPTURE REF":"2 Timothy 4:1-8"
+  },
+  {
+     "DATE":"5-02-10"
+    ,"TITLE":"Relentless "
+    ,"SCRIPTURE REF":" 2 Timothy 4;9-22"
+  },
+  {
+     "DATE":"5-09-10"
+    ,"TITLE":"Mother's Day 2010 A Faithful Mother "
+    ,"SCRIPTURE REF":""
+  },
+  {
+     "DATE":"5-16-10"
+    ,"TITLE":"The Fear of The Lord #1 What is it? "
+    ,"SCRIPTURE REF":""
+  },
+  {
+     "DATE":"5-23-10"
+    ,"TITLE":"The Fear of The Lord #2 What motivates it? "
+    ,"SCRIPTURE REF":""
+  },
+  {
+     "DATE":"5-30-10"
+    ,"TITLE":"The Fear of The Lord #3 Why? "
+    ,"SCRIPTURE REF":""
+  },
+  {
+     "DATE":"6-06-10"
+    ,"TITLE":"Youth Sunday "
+    ,"SCRIPTURE REF":""
+  },
+  {
+     "DATE":"6-13-10"
+    ,"TITLE":"The Fear of The Lord #4 How? "
+    ,"SCRIPTURE REF":""
+  },
+  {
+     "DATE":"6-20-10"
+    ,"TITLE":"True Life In JESUS"
+    ,"SCRIPTURE REF":"John 6 "
+  },
+  {
+     "DATE":"6-27-10"
+    ,"TITLE":"Come into the Light of Life"
+    ,"SCRIPTURE REF":"John 8"
+  },
+  {
+     "DATE":"7-04-10"
+    ,"TITLE":"The Beautiful Shepherd"
+    ,"SCRIPTURE REF":"John 10"
+  },
+  {
+     "DATE":"7-11-10"
+    ,"TITLE":"Sometimes Goliaths Lose"
+    ,"SCRIPTURE REF":"Psalm 33"
+  },
+  {
+     "DATE":"7-18-10"
+    ,"TITLE":"John 11"
+    ,"SCRIPTURE REF":"John 11"
+  },
+  {
+     "DATE":"7-25-10"
+    ,"TITLE":"Art Seely"
+    ,"SCRIPTURE REF":""
+  },
+  {
+     "DATE":"8-01-10"
+    ,"TITLE":"The Way to God "
+    ,"SCRIPTURE REF":"John 14"
+  },
+  {
+     "DATE":"8-08-10"
+    ,"TITLE":"The True Vine"
+    ,"SCRIPTURE REF":" John 15 August 8th"
+  },
+  {
+     "DATE":"8-15-10"
+    ,"TITLE":"The Gospel of Belief "
+    ,"SCRIPTURE REF":"John 3 August 15th"
+  },
+  {
+     "DATE":"8-22-10"
+    ,"TITLE":"Restless "
+    ,"SCRIPTURE REF":"Matthew 11:28-30"
+  },
+  {
+     "DATE":"8-29-10"
+    ,"TITLE":"The Sabbath "
+    ,"SCRIPTURE REF":"Genesis 2:1-3 "
+  },
+  {
+     "DATE":"9-05-10"
+    ,"TITLE":"The Quiet Place "
+    ,"SCRIPTURE REF":"Mark 1:35-37"
+  },
+  {
+     "DATE":"9-12-10"
+    ,"TITLE":"The Sheep's Life "
+    ,"SCRIPTURE REF":"Psalm 23 "
+  },
+  {
+     "DATE":"9-19-10"
+    ,"TITLE":"The Sheep's Life "
+    ,"SCRIPTURE REF":"Psalm 23 "
+  },
+  {
+     "DATE":"9-26-10"
+    ,"TITLE":"Acts:  Blueprint for Living "
+    ,"SCRIPTURE REF":"Acts 1:1-5"
+  },
+  {
+     "DATE":"10-03-10"
+    ,"TITLE":"The Ascension "
+    ,"SCRIPTURE REF":"Acts 1:6-11"
+  },
+  {
+     "DATE":"10-10-10"
+    ,"TITLE":"The World for Christ "
+    ,"SCRIPTURE REF":"Acts 1:12-26"
+  },
+  {
+     "DATE":"10-17-10"
+    ,"TITLE":"It?s A New Day "
+    ,"SCRIPTURE REF":"Acts 2:1-13"
+  },
+  {
+     "DATE":"10-24-10"
+    ,"TITLE":"Repent "
+    ,"SCRIPTURE REF":"Acts 2:14-41"
+  },
+  {
+     "DATE":"10-31-10"
+    ,"TITLE":"How to Get Acts 2:47 Results "
+    ,"SCRIPTURE REF":"Acts 2:42-47"
+  },
+  {
+     "DATE":"11-07-10"
+    ,"TITLE":"A Changed Life "
+    ,"SCRIPTURE REF":"Acts 3:1-10 "
+  },
+  {
+     "DATE":"11-14-10"
+    ,"TITLE":"The Secret to Change "
+    ,"SCRIPTURE REF":"Acts 3:11-26 "
+  },
+  {
+     "DATE":"11-21-10"
+    ,"TITLE":"Grateful "
+    ,"SCRIPTURE REF":"Luke 17:11-19 "
+  },
+  {
+     "DATE":"11-28-10"
+    ,"TITLE":"Uncompromised "
+    ,"SCRIPTURE REF":"Daniel 1-3 "
+  },
+  {
+     "DATE":"12-05-10"
+    ,"TITLE":"Believe "
+    ,"SCRIPTURE REF":"Luke 1:1-25 "
+  },
+  {
+     "DATE":"12-12-10"
+    ,"TITLE":"The Lord?s Servant "
+    ,"SCRIPTURE REF":"Luke 1:26-56 "
+  },
+  {
+     "DATE":"12-19-10"
+    ,"TITLE":"Tender Mercies "
+    ,"SCRIPTURE REF":"Luke 1:57-80 "
+  },
+  {
+     "DATE":"12-26-10"
+    ,"TITLE":"The Unstoppable Jesus "
+    ,"SCRIPTURE REF":"Acts 4:1-22 "
+  },
+  {
+     "DATE":"8-07-11"
+    ,"TITLE":"Paul's Persecution Predicted "
+    ,"SCRIPTURE REF":"Acts 21:1-16 "
+  },
+  {
+     "DATE":"8-14-11"
+    ,"TITLE":"Arrival and Arrest "
+    ,"SCRIPTURE REF":"Acts 21"
+  },
+  {
+     "DATE":"8-21-11"
+    ,"TITLE":"Apologetics 101 "
+    ,"SCRIPTURE REF":"Acts 21:37-22:29 "
+  },
+  {
+     "DATE":"8-28-11"
+    ,"TITLE":"Living for Christ in a Non-Christian World "
+    ,"SCRIPTURE REF":"Acts 22:30-23:35"
+  },
+  {
+     "DATE":"9-04-11"
+    ,"TITLE":"Hope "
+    ,"SCRIPTURE REF":"Acts 24 "
+  },
+  {
+     "DATE":"9-11-11"
+    ,"TITLE":"Life After Death Part 1 "
+    ,"SCRIPTURE REF":"Acts 25 "
+  },
+  {
+     "DATE":"9-18-11"
+    ,"TITLE":"Life After Death Part 2 "
+    ,"SCRIPTURE REF":"Acts 26 "
+  },
+  {
+     "DATE":"9-25-11"
+    ,"TITLE":"Courageous "
+    ,"SCRIPTURE REF":"Acts 27:1-26 "
+  },
+  {
+     "DATE":"10-02-11"
+    ,"TITLE":"Paul: God?s Man "
+    ,"SCRIPTURE REF":"Acts 27:27-28:10 "
+  },
+  {
+     "DATE":"10-09-11"
+    ,"TITLE":"The Ends of the Earth "
+    ,"SCRIPTURE REF":"Acts 28:11-31 "
+  },
+  {
+     "DATE":"10-16-11"
+    ,"TITLE":"True Transformation #1 Embracing God?s Word "
+    ,"SCRIPTURE REF":""
+  },
+  {
+     "DATE":"10-23-11"
+    ,"TITLE":"True Transformation #2 Prioritizing God's Word "
+    ,"SCRIPTURE REF":""
+  },
+  {
+     "DATE":"10-30-11"
+    ,"TITLE":"True Transformation #3 Submitting to God?s Word "
+    ,"SCRIPTURE REF":""
+  },
+  {
+     "DATE":"11-06-11"
+    ,"TITLE":"True Transformation #4 Abiding in God's Word "
+    ,"SCRIPTURE REF":""
+  },
+  {
+     "DATE":"11-13-11"
+    ,"TITLE":"True Transformation #5 Studying God's Word "
+    ,"SCRIPTURE REF":""
+  },
+  {
+     "DATE":"11-20-11"
+    ,"TITLE":"True Transformation #6 Living God's Word "
+    ,"SCRIPTURE REF":""
+  },
+  {
+     "DATE":"11-27-11"
+    ,"TITLE":"thankful for the church "
+    ,"SCRIPTURE REF":""
+  },
+  {
+     "DATE":"12-04-11"
+    ,"TITLE":"The Christmas Story:  Unveiling the Biblical Jesus #1"
+    ,"SCRIPTURE REF":""
+  },
+  {
+     "DATE":"12-11-11"
+    ,"TITLE":"The Christmas Story:  Unveiling the Biblical Jesus #2"
+    ,"SCRIPTURE REF":""
+  },
+  {
+     "DATE":"12-18-11"
+    ,"TITLE":"The Christmas Story:  Unveiling the Biblical Jesus #3"
+    ,"SCRIPTURE REF":""
+  },
+  {
+     "DATE":"12-25-11"
+    ,"TITLE":"The Christmas Story:  Unveiling the Biblical Jesus #4"
+    ,"SCRIPTURE REF":""
+  },
+  {
+     "DATE":"1-01-12"
+    ,"TITLE":"21 Qualities of a Good Leader "
+    ,"SCRIPTURE REF":"1 Timothy 3"
+  },
+  {
+     "DATE":"1-08-12"
+    ,"TITLE":"The Game of Life "
+    ,"SCRIPTURE REF":"Proverbs1:1"
+  },
+  {
+     "DATE":"1-15-12"
+    ,"TITLE":"The Beginning of Wisdom "
+    ,"SCRIPTURE REF":"Proverbs 1:1-7"
+  },
+  {
+     "DATE":"1-22-12"
+    ,"TITLE":"\"Love People"
+    ,"SCRIPTURE REF":" Use Things \""
+  },
+  {
+     "DATE":"1-29-12"
+    ,"TITLE":"Wisdom?s Cry "
+    ,"SCRIPTURE REF":"Proverbs 1:20-33"
+  },
+  {
+     "DATE":"2-05-12"
+    ,"TITLE":"Buried Treasure "
+    ,"SCRIPTURE REF":"Proverbs 2"
+  },
+  {
+     "DATE":"2-12-12"
+    ,"TITLE":"Trust in the Lord "
+    ,"SCRIPTURE REF":"Proverbs 3:1-12"
+  },
+  {
+     "DATE":"2-19-12"
+    ,"TITLE":"Side Effects: Wisdom?s Wonderful Benefits "
+    ,"SCRIPTURE REF":"Proverbs 3:13-35"
+  },
+  {
+     "DATE":"2-26-12"
+    ,"TITLE":"Like Father Like Son "
+    ,"SCRIPTURE REF":"Proverbs 4:1-9"
+  },
+  {
+     "DATE":"3-04-12"
+    ,"TITLE":"Two Paths of Life "
+    ,"SCRIPTURE REF":"Proverbs 4:10-19"
+  },
+  {
+     "DATE":"3-11-12"
+    ,"TITLE":"Guard Your Heart "
+    ,"SCRIPTURE REF":"Proverbs 4:20-27"
+  },
+  {
+     "DATE":"3-18-12"
+    ,"TITLE":"Pitfalls "
+    ,"SCRIPTURE REF":"Proverbs 5"
+  },
+  {
+     "DATE":"3-25-12"
+    ,"TITLE":"Three Bad Examples "
+    ,"SCRIPTURE REF":"Proverbs 6:1-19"
+  },
+  {
+     "DATE":"4-01-12"
+    ,"TITLE":"Palm Sunday:  A King Misunderstood "
+    ,"SCRIPTURE REF":"Mark 11:1-11"
+  },
+  {
+     "DATE":"4-08-12"
+    ,"TITLE":"Easter Sunday:  Living in Light of an Empty Tomb "
+    ,"SCRIPTURE REF":""
+  },
+  {
+     "DATE":"4-15-12"
+    ,"TITLE":"Lust "
+    ,"SCRIPTURE REF":"Proverbs 6:20-7:27"
+  },
+  {
+     "DATE":"4-22-12"
+    ,"TITLE":"The Pursuit of Wisdom "
+    ,"SCRIPTURE REF":"Proverbs 8"
+  },
+  {
+     "DATE":"4-29-12"
+    ,"TITLE":"When We Have to Choose "
+    ,"SCRIPTURE REF":"Proverbs 9"
+  },
+  {
+     "DATE":"5-06-12"
+    ,"TITLE":"Heart Matters "
+    ,"SCRIPTURE REF":"Proverbs 14:30"
+  },
+  {
+     "DATE":"5-13-12"
+    ,"TITLE":"A Magnificent Mother "
+    ,"SCRIPTURE REF":"Proverbs 31:10-31"
+  },
+  {
+     "DATE":"5-20-12"
+    ,"TITLE":"Wisdom and Wine "
+    ,"SCRIPTURE REF":"\"Proverbs 23:26"
+  },
+  {
+     "DATE":"5-27-12"
+    ,"TITLE":"Wealth "
+    ,"SCRIPTURE REF":"Proverbs 30:7-9"
+  },
+  {
+     "DATE":"6-03-12"
+    ,"TITLE":"Youth Sunday"
+    ,"SCRIPTURE REF":""
+  },
+  {
+     "DATE":"6-10-12"
+    ,"TITLE":"The Art of Getting Along "
+    ,"SCRIPTURE REF":"Proverbs 14:9"
+  },
+  {
+     "DATE":"6-17-12"
+    ,"TITLE":"A Father?s Legacy "
+    ,"SCRIPTURE REF":"Proverbs 22:6"
+  },
+  {
+     "DATE":"6-24-12"
+    ,"TITLE":"How To Hold Your Tongue "
+    ,"SCRIPTURE REF":"Proverbs 10:19"
+  },
+  {
+     "DATE":"7-01-12"
+    ,"TITLE":"The Rule of God "
+    ,"SCRIPTURE REF":"Proverbs 16:1-9"
+  },
+  {
+     "DATE":"7-08-12"
+    ,"TITLE":"Wisdom Worthy of Recognition "
+    ,"SCRIPTURE REF":"Luke 14:1-14"
+  },
+  {
+     "DATE":"7-15-12"
+    ,"TITLE":"Blessed are the Pure in Heart "
+    ,"SCRIPTURE REF":"Matthew 5:8"
+  },
+  {
+     "DATE":"7-22-12"
+    ,"TITLE":"Any Old Bush Will Do! "
+    ,"SCRIPTURE REF":"1 Cor. 1:26-31"
+  },
+  {
+     "DATE":"7-29-12"
+    ,"TITLE":"Is GOD still there?  "
+    ,"SCRIPTURE REF":"Zephaniah 3:14-17"
+  },
+  {
+     "DATE":"8-05-12"
+    ,"TITLE":"Salvation that WORKS!  "
+    ,"SCRIPTURE REF":"Philippians 2:12-13"
+  },
+  {
+     "DATE":"8-12-12"
+    ,"TITLE":"The Lord Never Fails "
+    ,"SCRIPTURE REF":"Psalm 16"
+  },
+  {
+     "DATE":"8-19-12"
+    ,"TITLE":"What God Really Wants "
+    ,"SCRIPTURE REF":"Micah 6:1-8"
+  },
+  {
+     "DATE":"8-26-12"
+    ,"TITLE":"A Secret Message for the Church Revelation Part #1"
+    ,"SCRIPTURE REF":""
+  },
+  {
+     "DATE":"9-02-12"
+    ,"TITLE":"A Secret Message for the Church Revelation Part #2"
+    ,"SCRIPTURE REF":""
+  },
+  {
+     "DATE":"9-09-12"
+    ,"TITLE":"A Secret Message for the Church Revelation Part #3"
+    ,"SCRIPTURE REF":""
+  },
+  {
+     "DATE":"9-16-12"
+    ,"TITLE":"THIRSTY  A Passionate Pursuit "
+    ,"SCRIPTURE REF":"Psalm 63"
+  },
+  {
+     "DATE":"9-23-12"
+    ,"TITLE":"THIRSTY  Spiritual Formation "
+    ,"SCRIPTURE REF":"Acts 2; Galatians 3 & 5"
+  },
+  {
+     "DATE":"9-30-12"
+    ,"TITLE":"THIRSTY  The Bible"
+    ,"SCRIPTURE REF":""
+  },
+  {
+     "DATE":"10-07-12"
+    ,"TITLE":"THIRSTY  Prayer: The Basics "
+    ,"SCRIPTURE REF":"Jeremiah 31:31-34"
+  },
+  {
+     "DATE":"10-14-12"
+    ,"TITLE":"THIRSTY  Prayer: A Master Class "
+    ,"SCRIPTURE REF":"Matthew 6:5-13"
+  },
+  {
+     "DATE":"10-21-12"
+    ,"TITLE":"THIRSTY  Prayer: The Most Important Thing in Life "
+    ,"SCRIPTURE REF":"Luke 10:38-42"
+  },
+  {
+     "DATE":"10-28-12"
+    ,"TITLE":"THIRSTY  Outreach: His Hands and Feet "
+    ,"SCRIPTURE REF":"Luke 10:25-37 & Romans 10:14-15"
+  },
+  {
+     "DATE":"11-04-12"
+    ,"TITLE":"THIRSTY  Fellowship: Life Together "
+    ,"SCRIPTURE REF":""
+  },
+  {
+     "DATE":"11-11-12"
+    ,"TITLE":"THIRSTY Stewardship: Investing in the Kingdom "
+    ,"SCRIPTURE REF":"Matthew 25:14-30"
+  },
+  {
+     "DATE":"11-18-12"
+    ,"TITLE":"THIRSTY Death of Self: The Discipline of Service"
+    ,"SCRIPTURE REF":""
+  },
+  {
+     "DATE":"11-25-12"
+    ,"TITLE":"THIRSTY Impassioned Devotion to God "
+    ,"SCRIPTURE REF":"Romans 12:1-2"
+  },
+  {
+     "DATE":"12-02-12"
+    ,"TITLE":"CHRISTMAS The Sovereignty of God "
+    ,"SCRIPTURE REF":"1 John 1; John 1"
+  },
+  {
+     "DATE":"12-09-12"
+    ,"TITLE":"CHRISTMAS The Faithfulness of God "
+    ,"SCRIPTURE REF":"Genesis 12:1-3"
+  },
+  {
+     "DATE":"12-16-12"
+    ,"TITLE":"CHRISTMAS The Holiness of God "
+    ,"SCRIPTURE REF":"Isaiah 52:13-53:12"
+  },
+  {
+     "DATE":"12-23-12"
+    ,"TITLE":"CHRISTMAS The Love of God "
+    ,"SCRIPTURE REF":"John 3:16-21"
+  },
+  {
+     "DATE":"12-30-12"
+    ,"TITLE":"From Advent to Parousia "
+    ,"SCRIPTURE REF":"Matthew 24:42-25:30"
+  },
+  {
+     "DATE":"1-06-13"
+    ,"TITLE":"Leadership Jesus Style Shepherds and Servants"
+    ,"SCRIPTURE REF":""
+  },
+  {
+     "DATE":"1-13-13"
+    ,"TITLE":"The Greeting"
+    ,"SCRIPTURE REF":"Ephesians 1:1-2 "
+  },
+  {
+     "DATE":"1-20-13"
+    ,"TITLE":"The Blessing of Redemption Part 1"
+    ,"SCRIPTURE REF":"Ephesians 1:3-14 "
+  },
+  {
+     "DATE":"1-27-13"
+    ,"TITLE":"The Blessing of Redemption Part 2"
+    ,"SCRIPTURE REF":"Ephesians 1:3-14 "
+  },
+  {
+     "DATE":"2-03-13"
+    ,"TITLE":"The Blessing of Redemption Part 3"
+    ,"SCRIPTURE REF":"Ephesians 1:3-14 "
+  },
+  {
+     "DATE":"2-10-13"
+    ,"TITLE":" Awakened Harts"
+    ,"SCRIPTURE REF":"Ephesians 1:15-23"
+  },
+  {
+     "DATE":"2-17-13"
+    ,"TITLE":"Alive For the First Time"
+    ,"SCRIPTURE REF":"Ephesians 2:1-7 "
+  },
+  {
+     "DATE":"2-24-13"
+    ,"TITLE":"Ephesians 2:8-10"
+    ,"SCRIPTURE REF":"Ephesians 2:8-10"
+  },
+  {
+     "DATE":"3-03-13"
+    ,"TITLE":" Unity of the Body Part 1"
+    ,"SCRIPTURE REF":"Ephesians 2:11-22"
+  },
+  {
+     "DATE":"3-10-13"
+    ,"TITLE":" Unity of the Body Part 2"
+    ,"SCRIPTURE REF":"Ephesians 2:11-22"
+  },
+  {
+     "DATE":"3-17-13"
+    ,"TITLE":" Paul?s Heart"
+    ,"SCRIPTURE REF":"Ephesians 3:1-13"
+  },
+  {
+     "DATE":"3-24-13"
+    ,"TITLE":"Palm Sunday:  An Unlikely King "
+    ,"SCRIPTURE REF":"Genesis 38"
+  },
+  {
+     "DATE":"3-31-13"
+    ,"TITLE":"Easter Sunday:  Is Your God TOO SMALL?  "
+    ,"SCRIPTURE REF":"Luke 24"
+  },
+  {
+     "DATE":"4-07-13"
+    ,"TITLE":"Rooted in Love"
+    ,"SCRIPTURE REF":"Ephesians 3:14-21 "
+  },
+  {
+     "DATE":"4-14-13"
+    ,"TITLE":"One"
+    ,"SCRIPTURE REF":"Ephesians 4:1-6 "
+  },
+  {
+     "DATE":"4-21-13"
+    ,"TITLE":" Living Beyond Myself"
+    ,"SCRIPTURE REF":"Ephesians 4:7-16"
+  },
+  {
+     "DATE":"4-28-13"
+    ,"TITLE":" Dare to be Different"
+    ,"SCRIPTURE REF":"Ephesians 4:17-24"
+  },
+  {
+     "DATE":"5-05-13"
+    ,"TITLE":" Walk in Love"
+    ,"SCRIPTURE REF":"Ephesians 4:25-5:2"
+  },
+  {
+     "DATE":"5-12-13"
+    ,"TITLE":"Motherhood:  Training for Life "
+    ,"SCRIPTURE REF":"Proverbs 22:6"
+  },
+  {
+     "DATE":"5-19-13"
+    ,"TITLE":"You Were Made To Shine Part 1"
+    ,"SCRIPTURE REF":"Ephesians 5:3-14 "
+  },
+  {
+     "DATE":"5-26-13"
+    ,"TITLE":" You Were Made To Shine Part 2"
+    ,"SCRIPTURE REF":"Ephesians 5:3-14"
+  },
+  {
+     "DATE":"6-02-13"
+    ,"TITLE":" Living in God's Will"
+    ,"SCRIPTURE REF":"Ephesians 5:15-20"
+  },
+  {
+     "DATE":"6-09-13"
+    ,"TITLE":"Youth Sunday"
+    ,"SCRIPTURE REF":""
+  },
+  {
+     "DATE":"6-16-13"
+    ,"TITLE":" Lessons from a Father"
+    ,"SCRIPTURE REF":"Ephesians 5:21-6:4"
+  },
+  {
+     "DATE":"6-23-30"
+    ,"TITLE":"Under New Management"
+    ,"SCRIPTURE REF":"Ephesians 6:5-9 "
+  },
+  {
+     "DATE":"6-30-13"
+    ,"TITLE":" Taking a Stand"
+    ,"SCRIPTURE REF":"Ephesians 6:10-17"
+  },
+  {
+     "DATE":"7-07-13"
+    ,"TITLE":" Prayer Warrior"
+    ,"SCRIPTURE REF":"Ephesians 6:18-24"
+  },
+  {
+     "DATE":"7-14-13"
+    ,"TITLE":" Go All Out"
+    ,"SCRIPTURE REF":"Philippians 3:7-4:1"
+  },
+  {
+     "DATE":"7-21-13"
+    ,"TITLE":"Part 1-Your Heart"
+    ,"SCRIPTURE REF":"Joel1:1-2:14"
+  },
+  {
+     "DATE":"7-28-13"
+    ,"TITLE":"Joel Part 2-Your Destiny"
+    ,"SCRIPTURE REF":"Joel1:1-2:14"
+  },
+  {
+     "DATE":"8-04-13"
+    ,"TITLE":"Joel Part 3- Your God"
+    ,"SCRIPTURE REF":"Joel1:1-2:14"
+  },
+  {
+     "DATE":"8-11-13"
+    ,"TITLE":" Love Revolution "
+    ,"SCRIPTURE REF":"Matthew 9:9-13"
+  },
+  {
+     "DATE":"8-18-13"
+    ,"TITLE":" Kingdom Come"
+    ,"SCRIPTURE REF":"Matthew 6;10"
+  },
+  {
+     "DATE":"8-25-13"
+    ,"TITLE":" His Church Our Hope"
+    ,"SCRIPTURE REF":"Matthew 16:13-20"
+  },
+  {
+     "DATE":"9-01-13"
+    ,"TITLE":"Matthew 13 The Kingdom Of Heaven Is Like?"
+    ,"SCRIPTURE REF":""
+  },
+  {
+     "DATE":"9-08-13"
+    ,"TITLE":"American Idols #1 Have It Your Way "
+    ,"SCRIPTURE REF":"Romans 1:18-32"
+  },
+  {
+     "DATE":"9-15-13"
+    ,"TITLE":"American Idols #2 Disappointed "
+    ,"SCRIPTURE REF":"Psalm 131"
+  },
+  {
+     "DATE":"9-22-13"
+    ,"TITLE":"American Idols #3 Jealous "
+    ,"SCRIPTURE REF":"Exodus 20:4-6"
+  },
+  {
+     "DATE":"9-29-13"
+    ,"TITLE":"American Idols #4 Satisfied "
+    ,"SCRIPTURE REF":"Psalm 81"
+  },
+  {
+     "DATE":"10-06-13"
+    ,"TITLE":"American Idols #5 Food "
+    ,"SCRIPTURE REF":"John 6:25-35"
+  },
+  {
+     "DATE":"10-13-13"
+    ,"TITLE":"American Idols #6 Porneia 2 "
+    ,"SCRIPTURE REF":"Samuel 13:1-15"
+  },
+  {
+     "DATE":"10-20-13"
+    ,"TITLE":"American Idols #7 Entertainment "
+    ,"SCRIPTURE REF":"Ecclesiastes 2:1-11"
+  },
+  {
+     "DATE":"10-27-13"
+    ,"TITLE":"American Idols #8 Money "
+    ,"SCRIPTURE REF":"Ecclesiastes 5:10-15"
+  },
+  {
+     "DATE":"11-03-13"
+    ,"TITLE":"American Idols #9 Success "
+    ,"SCRIPTURE REF":"2 Kings 5:1-15"
+  },
+  {
+     "DATE":"11-10-13"
+    ,"TITLE":"American Idols #10 Romance "
+    ,"SCRIPTURE REF":"Genesis 29:31-35"
+  },
+  {
+     "DATE":"11-17-13"
+    ,"TITLE":"American Idols #11 Point of Decision "
+    ,"SCRIPTURE REF":"Jeremiah 2:1-13"
+  },
+  {
+     "DATE":"11-24-13"
+    ,"TITLE":"giving gratitude HANDS & FEET"
+    ,"SCRIPTURE REF":""
+  },
+  {
+     "DATE":"12-01-13"
+    ,"TITLE":"Walking with Jesus "
+    ,"SCRIPTURE REF":"Luke 1:1-4"
+  },
+  {
+     "DATE":"12-08-13"
+    ,"TITLE":"Longings Fulfilled "
+    ,"SCRIPTURE REF":"Luke 1:5-25"
+  },
+  {
+     "DATE":"12-15-13"
+    ,"TITLE":"Found Faithful "
+    ,"SCRIPTURE REF":"Luke 1:26-56"
+  },
+  {
+     "DATE":"12-22-13"
+    ,"TITLE":"Tender Mercy "
+    ,"SCRIPTURE REF":"Luke 1:57-80"
+  },
+  {
+     "DATE":"12-29-13"
+    ,"TITLE":"Living in Expectation "
+    ,"SCRIPTURE REF":"Luke 2:21-40"
+  },
+  {
+     "DATE":"1-05-14"
+    ,"TITLE":"Jesus in the Temple "
+    ,"SCRIPTURE REF":"Luke 2:41-52"
+  },
+  {
+     "DATE":"1-12-14"
+    ,"TITLE":"Prepare the Way "
+    ,"SCRIPTURE REF":"Luke 3:1-14"
+  },
+  {
+     "DATE":"1-19-14"
+    ,"TITLE":"Jesus Messiah God and Man "
+    ,"SCRIPTURE REF":"Luke 3:15-38"
+  },
+  {
+     "DATE":"1-26-14"
+    ,"TITLE":"Overcoming Temptation "
+    ,"SCRIPTURE REF":"Luke 4:1-13"
+  },
+  {
+     "DATE":"2-02-14"
+    ,"TITLE":"The Rejected Messiah "
+    ,"SCRIPTURE REF":"Luke 4:14-30"
+  },
+  {
+     "DATE":"2-09-14"
+    ,"TITLE":"Kingdom Authority "
+    ,"SCRIPTURE REF":"Luke 4:31-44"
+  },
+  {
+     "DATE":"2-16-14"
+    ,"TITLE":"The Great Adventure "
+    ,"SCRIPTURE REF":"Luke 5:1-11"
+  },
+  {
+     "DATE":"2-23-14"
+    ,"TITLE":"Stretch Your Faith "
+    ,"SCRIPTURE REF":"Luke 5:12-26"
+  },
+  {
+     "DATE":"3-02-14"
+    ,"TITLE":"The Calling of Levi "
+    ,"SCRIPTURE REF":"Luke 5:27-39"
+  },
+  {
+     "DATE":"3-09-14"
+    ,"TITLE":"Lord of the Sabbath "
+    ,"SCRIPTURE REF":"Luke 6:1-11"
+  },
+  {
+     "DATE":"3-16-14"
+    ,"TITLE":"Kingdom Upside Down "
+    ,"SCRIPTURE REF":"Luke 6:12-26"
+  },
+  {
+     "DATE":"3-23-14"
+    ,"TITLE":"Loving the People You?re Stuck With "
+    ,"SCRIPTURE REF":"Luke 6:27-36"
+  },
+  {
+     "DATE":"3-30-14"
+    ,"TITLE":"Gracious and Authentic "
+    ,"SCRIPTURE REF":"Luke 6:37-49"
+  },
+  {
+     "DATE":"4-06-14"
+    ,"TITLE":"God of Compassion "
+    ,"SCRIPTURE REF":"Luke 7:1-17"
+  },
+  {
+     "DATE":"4-13-14"
+    ,"TITLE":"An Unexpected Messiah "
+    ,"SCRIPTURE REF":"Luke 7:18-35"
+  },
+  {
+     "DATE":"4-20-14"
+    ,"TITLE":"Easter is? "
+    ,"SCRIPTURE REF":"John 20"
+  },
+  {
+     "DATE":"4-27-14"
+    ,"TITLE":"Tender Grace "
+    ,"SCRIPTURE REF":"Luke 7:36-8:3"
+  },
+  {
+     "DATE":"5-04-14"
+    ,"TITLE":"Hearts that can Hear "
+    ,"SCRIPTURE REF":"Luke 8:4-21"
+  },
+  {
+     "DATE":"5-11-14"
+    ,"TITLE":"Be Still "
+    ,"SCRIPTURE REF":"Psalm 131"
+  },
+  {
+     "DATE":"5-18-14"
+    ,"TITLE":"Lord of All "
+    ,"SCRIPTURE REF":"Luke 8:22-39"
+  },
+  {
+     "DATE":"5-25-14"
+    ,"TITLE":"When it?s Hard to Believe "
+    ,"SCRIPTURE REF":"Luke 8:40-56"
+  },
+  {
+     "DATE":"6-01-14"
+    ,"TITLE":"Youth Sunday"
+    ,"SCRIPTURE REF":""
+  },
+  {
+     "DATE":"6-08-14"
+    ,"TITLE":"Sent "
+    ,"SCRIPTURE REF":"Luke 9:1-17"
+  },
+  {
+     "DATE":"6-15-14"
+    ,"TITLE":"The Measure of a Man "
+    ,"SCRIPTURE REF":"Jeremiah 9:23-24"
+  },
+  {
+     "DATE":"6-22-14"
+    ,"TITLE":"Cross Life "
+    ,"SCRIPTURE REF":"Luke 9:18-36"
+  },
+  {
+     "DATE":"6-29-14"
+    ,"TITLE":"The Measure of Greatness "
+    ,"SCRIPTURE REF":"Luke 9:37-50"
+  },
+  {
+     "DATE":"7-06-14"
+    ,"TITLE":"Journey to Jerusalem "
+    ,"SCRIPTURE REF":"Luke 9:51-62"
+  },
+  {
+     "DATE":"7-13-14"
+    ,"TITLE":"Principles from the Book of Job"
+    ,"SCRIPTURE REF":""
+  },
+  {
+     "DATE":"7-20-14"
+    ,"TITLE":"Help Wanted "
+    ,"SCRIPTURE REF":"Luke 10:1-24"
+  },
+  {
+     "DATE":"7-27-14"
+    ,"TITLE":"Kingdom Economy Part #1 "
+    ,"SCRIPTURE REF":"Luke 10:25-42"
+  },
+  {
+     "DATE":"8-03-14"
+    ,"TITLE":"Kingdom Economy Part #2 "
+    ,"SCRIPTURE REF":"Luke 10:25-42"
+  },
+  {
+     "DATE":"8-10-14"
+    ,"TITLE":"The Jesus Prayer "
+    ,"SCRIPTURE REF":"Luke 11:1-13"
+  },
+  {
+     "DATE":"8-17-14"
+    ,"TITLE":"A House Divided "
+    ,"SCRIPTURE REF":"Luke 11:14-26"
+  },
+  {
+     "DATE":"8-24-14"
+    ,"TITLE":"Luminous "
+    ,"SCRIPTURE REF":"Luke 11:27-36"
+  },
+  {
+     "DATE":"8-31-14"
+    ,"TITLE":"Woe is?Me "
+    ,"SCRIPTURE REF":"Luke11:37-54"
+  },
+  {
+     "DATE":"9-07-14"
+    ,"TITLE":"In God We Trust "
+    ,"SCRIPTURE REF":"Luke 12:1-12"
+  },
+  {
+     "DATE":"9-14-14"
+    ,"TITLE":"Building Barns "
+    ,"SCRIPTURE REF":"Luke 12:13-34"
+  },
+  {
+     "DATE":"9-21-14"
+    ,"TITLE":"Awaiting His Arrival "
+    ,"SCRIPTURE REF":"Luke 12:35-59"
+  },
+  {
+     "DATE":"9-28-14"
+    ,"TITLE":"\"Tragedy"
+    ,"SCRIPTURE REF":" A Fig Tree & A Woman Set Free \""
+  },
+  {
+     "DATE":"10-05-14"
+    ,"TITLE":"Don?t Be Fooled "
+    ,"SCRIPTURE REF":"Luke 13:18-35"
+  },
+  {
+     "DATE":"10-12-14"
+    ,"TITLE":"Following a Benevolent King "
+    ,"SCRIPTURE REF":"Luke 14:1-24"
+  },
+  {
+     "DATE":"10-19-14"
+    ,"TITLE":"The Great Cost of Discipleship "
+    ,"SCRIPTURE REF":"Luke 14:25-35"
+  },
+  {
+     "DATE":"10-26-14"
+    ,"TITLE":"Lost & Found "
+    ,"SCRIPTURE REF":"Luke 15:1-32"
+  },
+  {
+     "DATE":"11-02-14"
+    ,"TITLE":"Wealth "
+    ,"SCRIPTURE REF":"Luke 16:1-18"
+  },
+  {
+     "DATE":"11-09-14"
+    ,"TITLE":"True Grit "
+    ,"SCRIPTURE REF":"Luke 16:19-17:19"
+  },
+  {
+     "DATE":"11-16-14"
+    ,"TITLE":"Redeeming the Time "
+    ,"SCRIPTURE REF":"Luke 17:20-37"
+  },
+  {
+     "DATE":"11-23-14"
+    ,"TITLE":"Justified "
+    ,"SCRIPTURE REF":"Luke 18:1-14"
+  },
+  {
+     "DATE":"11-30-14"
+    ,"TITLE":"Josh and Sarah Snodgrass"
+    ,"SCRIPTURE REF":""
+  },
+  {
+     "DATE":"12-07-14"
+    ,"TITLE":"Handel?s Messiah:  The Incarnation"
+    ,"SCRIPTURE REF":""
+  },
+  {
+     "DATE":"12-14-14"
+    ,"TITLE":"Handel?s Messiah:  God With Us"
+    ,"SCRIPTURE REF":""
+  },
+  {
+     "DATE":"12-21-14"
+    ,"TITLE":"Handel?s Messiah:  The Gospel of Christmas"
+    ,"SCRIPTURE REF":""
+  },
+  {
+     "DATE":"12-28-14"
+    ,"TITLE":"A Humble Life "
+    ,"SCRIPTURE REF":"Luke 18:15-30"
+  },
+  {
+     "DATE":"1-04-15"
+    ,"TITLE":"Trust in the Lord "
+    ,"SCRIPTURE REF":"Luke 18:31-43"
+  },
+  {
+     "DATE":"1-11-15"
+    ,"TITLE":"Zacchaeus "
+    ,"SCRIPTURE REF":"Luke 19:1-10"
+  },
+  {
+     "DATE":"1-18-15"
+    ,"TITLE":"LIFE in between "
+    ,"SCRIPTURE REF":"Luke 19:11-27"
+  },
+  {
+     "DATE":"1-25-15"
+    ,"TITLE":"Triumphal Entry "
+    ,"SCRIPTURE REF":"Luke 19:28-44"
+  },
+  {
+     "DATE":"2-01-15"
+    ,"TITLE":"Meekness & Might   "
+    ,"SCRIPTURE REF":"Luke 19:45-20:19"
+  },
+  {
+     "DATE":"2-08-15"
+    ,"TITLE":"The Political Controversies of Jesus "
+    ,"SCRIPTURE REF":"Luke 20:20-40"
+  },
+  {
+     "DATE":"2-15-15"
+    ,"TITLE":"Hypocrisy vs Humility "
+    ,"SCRIPTURE REF":"Luke 20:41-21:4"
+  },
+  {
+     "DATE":"2-22-15"
+    ,"TITLE":"His Return "
+    ,"SCRIPTURE REF":"Luke 21:5-38"
+  },
+  {
+     "DATE":"3-01-15"
+    ,"TITLE":"His Last Supper "
+    ,"SCRIPTURE REF":"Luke 22:1-23"
+  },
+  {
+     "DATE":"3-08-15"
+    ,"TITLE":"Greatness Redefined "
+    ,"SCRIPTURE REF":"Luke 22:24-38"
+  },
+  {
+     "DATE":"3-15-15"
+    ,"TITLE":"In The Garden "
+    ,"SCRIPTURE REF":"Luke 22:39-62"
+  },
+  {
+     "DATE":"3-22-15"
+    ,"TITLE":"Mocked Mistreated Condemned "
+    ,"SCRIPTURE REF":"Luke 22:63-23:25"
+  },
+  {
+     "DATE":"3-29-15"
+    ,"TITLE":"The Crucifixion "
+    ,"SCRIPTURE REF":"Luke 23:26-56"
+  },
+  {
+     "DATE":"4-05-15"
+    ,"TITLE":"Incredible & Impossible "
+    ,"SCRIPTURE REF":"Luke 24:1-12"
+  },
+  {
+     "DATE":"4-12-15"
+    ,"TITLE":"Burning Hearts Inside Us "
+    ,"SCRIPTURE REF":"Luke 24:13-35"
+  },
+  {
+     "DATE":"4-19-15"
+    ,"TITLE":"The Risen Christ "
+    ,"SCRIPTURE REF":"Luke 24:36-53"
+  },
+  {
+     "DATE":"4-26-15"
+    ,"TITLE":"Know What You Believe Articles of Faith "
+    ,"SCRIPTURE REF":"Acts 2:41-47"
+  },
+  {
+     "DATE":"5-03-15"
+    ,"TITLE":"KWYB #2 The Holy Scriptures "
+    ,"SCRIPTURE REF":"Nehemiah 8:1-12"
+  },
+  {
+     "DATE":"5-10-15"
+    ,"TITLE":"Mom:  The Greatest Job on Earth"
+    ,"SCRIPTURE REF":""
+  },
+  {
+     "DATE":"5-17-15"
+    ,"TITLE":"KWYB #3 The Holy Scriptures Part Two 2 "
+    ,"SCRIPTURE REF":"Timothy 3:16-17"
+  },
+  {
+     "DATE":"5-24-15"
+    ,"TITLE":"KWYB #4 The God Head "
+    ,"SCRIPTURE REF":"Deut. 6:4 & 2 Cor.13:14"
+  },
+  {
+     "DATE":"5-31-15"
+    ,"TITLE":"KWYB #5 The Person and Work of Christ "
+    ,"SCRIPTURE REF":"Romans 3:21-26"
+  },
+  {
+     "DATE":"6-07-15"
+    ,"TITLE":"\"Communion"
+    ,"SCRIPTURE REF":" Youth Sunday\""
+  },
+  {
+     "DATE":"6-14-15"
+    ,"TITLE":"KWYB #6 The Person and Work of the Holy Spirit "
+    ,"SCRIPTURE REF":"John 16:5-15"
+  },
+  {
+     "DATE":"6-21-15"
+    ,"TITLE":"Fathers Day- Dirk Berdan"
+    ,"SCRIPTURE REF":""
+  },
+  {
+     "DATE":"6-28-15"
+    ,"TITLE":"Faith and God?s Will    "
+    ,"SCRIPTURE REF":""
+  },
+  {
+     "DATE":"7-05-15"
+    ,"TITLE":"KWYB #7 The Depravity of Man "
+    ,"SCRIPTURE REF":"Ephesians 2:1-3"
+  },
+  {
+     "DATE":"7-12-15"
+    ,"TITLE":"KWYB #8 Salvation "
+    ,"SCRIPTURE REF":"Ephesians 2:4-10"
+  },
+  {
+     "DATE":"7-19-15"
+    ,"TITLE":"KWYB #9 Baptism "
+    ,"SCRIPTURE REF":"Matthew 28:18-20 & Acts 8:36-39"
+  },
+  {
+     "DATE":"7-26-15"
+    ,"TITLE":"Missionary Speaker Jim Fox"
+    ,"SCRIPTURE REF":""
+  },
+  {
+     "DATE":"8-02-15"
+    ,"TITLE":"KWYB #10 Eternal Security & Assurance of Believers "
+    ,"SCRIPTURE REF":"Rom 8:38-39&Gal 5:13"
+  },
+  {
+     "DATE":"8-09-15"
+    ,"TITLE":"KWYB #11 The End Times Part #1 "
+    ,"SCRIPTURE REF":"Rev. 20"
+  },
+  {
+     "DATE":"8-16-15"
+    ,"TITLE":"KWYB #12 The End Times Part #2 "
+    ,"SCRIPTURE REF":"Rev. 20"
+  },
+  {
+     "DATE":"8-23-15"
+    ,"TITLE":"The Will of God"
+    ,"SCRIPTURE REF":""
+  },
+  {
+     "DATE":"8-30-15"
+    ,"TITLE":"KWYB #13 The Church "
+    ,"SCRIPTURE REF":"Matt. 16:13-20"
+  },
+  {
+     "DATE":"9-06-15"
+    ,"TITLE":"KWYB #14 Separation 2 "
+    ,"SCRIPTURE REF":"Tim. 3:1-5"
+  },
+  {
+     "DATE":"9-13-15"
+    ,"TITLE":"\"Holy"
+    ,"SCRIPTURE REF":" A Pilgrim?s Progress- Disclaimer \""
+  },
+  {
+     "DATE":"9-20-15"
+    ,"TITLE":"HOLY #2 Be Holy! 1 "
+    ,"SCRIPTURE REF":"Peter 1:13-16"
+  },
+  {
+     "DATE":"9-27-15"
+    ,"TITLE":"HOLY #3 Good News! "
+    ,"SCRIPTURE REF":"Galatians"
+  },
+  {
+     "DATE":"10-04-15"
+    ,"TITLE":"HOLY #4 Dead to Sin Romans 6 Part #1"
+    ,"SCRIPTURE REF":""
+  },
+  {
+     "DATE":"10-11-15"
+    ,"TITLE":"HOLY #5 Dead to Sin Romans 6 Part #2"
+    ,"SCRIPTURE REF":""
+  },
+  {
+     "DATE":"10-18-15"
+    ,"TITLE":"HOLY #6 Dead to Sin Romans 6 Part #3"
+    ,"SCRIPTURE REF":""
+  },
+  {
+     "DATE":"10-25-15"
+    ,"TITLE":"HOLY #7 In Step with the Spirit "
+    ,"SCRIPTURE REF":"Romans 8:1-4"
+  },
+  {
+     "DATE":"11-01-15"
+    ,"TITLE":"God Knows Best Pastoral Intern Nate Lenhart"
+    ,"SCRIPTURE REF":" Isaiah 55:6-13"
+  },
+  {
+     "DATE":"11-08-15"
+    ,"TITLE":"HOLY #8 Spirit-Life "
+    ,"SCRIPTURE REF":"Romans 8:5-14"
+  },
+  {
+     "DATE":"11-15-15"
+    ,"TITLE":"HOLY #9 No Fear "
+    ,"SCRIPTURE REF":"Romans 8:15-27"
+  },
+  {
+     "DATE":"11-22-15"
+    ,"TITLE":"HOLY #10 Unfailing Love "
+    ,"SCRIPTURE REF":"Romans 8:28-39"
+  },
+  {
+     "DATE":"11-29-15"
+    ,"TITLE":"Speaking Thanksgiving to Your Soul "
+    ,"SCRIPTURE REF":"Psalm 103"
+  },
+  {
+     "DATE":"12-06-15"
+    ,"TITLE":"Immanuel #1 White as Snow "
+    ,"SCRIPTURE REF":"Isaiah 1:1-20"
+  },
+  {
+     "DATE":"12-13-15"
+    ,"TITLE":"Immanuel #2 Believe "
+    ,"SCRIPTURE REF":"Isaiah 7:1-17"
+  },
+  {
+     "DATE":"12-20-15"
+    ,"TITLE":"Immanuel #3 The Promise Revealed  Part 1"
+    ,"SCRIPTURE REF":"Isaiah 9:1-7"
+  },
+  {
+     "DATE":"12-24-15"
+    ,"TITLE":"Immanuel #4 The Promise RevealedPart 2"
+    ,"SCRIPTURE REF":" Isaiah 9:1-7 "
+  },
+  {
+     "DATE":"12-27-15"
+    ,"TITLE":"Immanuel #5 All Flesh Will See Him "
+    ,"SCRIPTURE REF":"Isaiah 40:1-11"
+  },
+  {
+     "DATE":"1-03-16"
+    ,"TITLE":"A New Life With Christ Nate Lenhart"
+    ,"SCRIPTURE REF":" Colossians 3:1-17"
+  },
+  {
+     "DATE":"1-10-16"
+    ,"TITLE":"HOLY #11 Living Sacrifices "
+    ,"SCRIPTURE REF":"Romans 12:1-2"
+  },
+  {
+     "DATE":"1-17-16"
+    ,"TITLE":"HOLY #12 Life and Death "
+    ,"SCRIPTURE REF":"Psalm 139"
+  },
+  {
+     "DATE":"1-24-16"
+    ,"TITLE":"HOLY #13 Abide "
+    ,"SCRIPTURE REF":"John 15:1-17"
+  },
+  {
+     "DATE":"1-31-16"
+    ,"TITLE":"HOLY #14 Do the Word "
+    ,"SCRIPTURE REF":"James 1:22-25"
+  },
+  {
+     "DATE":"2-07-16"
+    ,"TITLE":"HOLY #15 Devoted Fellowship "
+    ,"SCRIPTURE REF":"Philippians 2:1-18"
+  },
+  {
+     "DATE":"2-14-16"
+    ,"TITLE":"HOLY #16 Sacred Marriage "
+    ,"SCRIPTURE REF":"Genesis 2:18-25"
+  },
+  {
+     "DATE":"2-21-16"
+    ,"TITLE":"HOLY #17 Sexual Immorality 1 "
+    ,"SCRIPTURE REF":"Corinthians 6:12-20"
+  },
+  {
+     "DATE":"2-28-16"
+    ,"TITLE":"HOLY #18 Keeping It Real "
+    ,"SCRIPTURE REF":"1 John 1:1-2:2"
+  },
+  {
+     "DATE":"3-05-16"
+    ,"TITLE":"HOLY #19 Imitators of God "
+    ,"SCRIPTURE REF":"Ephesians 5:1-20"
+  },
+  {
+     "DATE":"3-13-16"
+    ,"TITLE":"Incidentally Mocking The Innocent  Nate Lenhart"
+    ,"SCRIPTURE REF":"Luke23:32-49"
+  },
+  {
+     "DATE":"3-20-16"
+    ,"TITLE":"A Kingly Welcome "
+    ,"SCRIPTURE REF":"Matthew 21:1-11"
+  },
+  {
+     "DATE":"3-27-16"
+    ,"TITLE":"Easter LIFE The Gospel of John "
+    ,"SCRIPTURE REF":""
+  },
+  {
+     "DATE":"4-03-16"
+    ,"TITLE":"God-Sized Dreams #1 THRIVE "
+    ,"SCRIPTURE REF":"Psalm 1"
+  },
+  {
+     "DATE":"4-10-16"
+    ,"TITLE":"God-Sized Dreams #2 REVIVE "
+    ,"SCRIPTURE REF":"Psalm 85"
+  },
+  {
+     "DATE":"4-17-16"
+    ,"TITLE":"God-Sized Dreams #3 DREAM "
+    ,"SCRIPTURE REF":"Genesis 15 & John 4"
+  },
+  {
+     "DATE":"4-24-16"
+    ,"TITLE":"God-Sized Dreams #4 MOVE "
+    ,"SCRIPTURE REF":"Deuteronomy 1:1-8"
+  },
+  {
+     "DATE":"5-01-16"
+    ,"TITLE":"God-Sized Dreams #5 UNITE "
+    ,"SCRIPTURE REF":"Philippians 1:12-2:2"
+  },
+  {
+     "DATE":"5-08-16"
+    ,"TITLE":"God-Sized Dreams #6 ENGAGE "
+    ,"SCRIPTURE REF":"Mark 12:28-31 & Matthew 28:18-20"
+  },
+  {
+     "DATE":"5-15-16"
+    ,"TITLE":"Joy in Deliverance from Adversity  Nate Lenhart"
+    ,"SCRIPTURE REF":"Philippians 4:10-13"
+  },
+  {
+     "DATE":"5-22-16"
+    ,"TITLE":"Finding Pure Joy "
+    ,"SCRIPTURE REF":"James 1:1-4"
+  },
+  {
+     "DATE":"5-29-16"
+    ,"TITLE":"More Than Enough "
+    ,"SCRIPTURE REF":"James 1:5-12"
+  },
+  {
+     "DATE":"6-05-16"
+    ,"TITLE":"Represent "
+    ,"SCRIPTURE REF":"1 Timothy 4:12"
+  },
+  {
+     "DATE":"6-12-16"
+    ,"TITLE":"The Father Heart of God "
+    ,"SCRIPTURE REF":"James 1:13-18"
+  },
+  {
+     "DATE":"6-19-16"
+    ,"TITLE":"The Parent's Pastoral Calling Father's Day"
+    ,"SCRIPTURE REF":"Deuteronomy 6:4-9"
+  },
+  {
+     "DATE":"6-26-16"
+    ,"TITLE":"Quick to Listen Slow to Speak Slow to Anger"
+    ,"SCRIPTURE REF":"James 1:19-21"
+  },
+  {
+     "DATE":"7-03-16"
+    ,"TITLE":"Listen & Obey "
+    ,"SCRIPTURE REF":"James 1:22-27"
+  },
+  {
+     "DATE":"7-10-16"
+    ,"TITLE":"Equal In His Eyes"
+    ,"SCRIPTURE REF":"James 2:1-13"
+  },
+  {
+     "DATE":"7-17-16"
+    ,"TITLE":"Faith in Action"
+    ,"SCRIPTURE REF":"James 2:14-26"
+  },
+  {
+     "DATE":"7-24-16"
+    ,"TITLE":"Taming the Tongue"
+    ,"SCRIPTURE REF":"James 3:1-12"
+  },
+  {
+     "DATE":"7-31-16"
+    ,"TITLE":"Wisdom's Fruit"
+    ,"SCRIPTURE REF":"James 3:13-18"
+  },
+  {
+     "DATE":"8-07-16"
+    ,"TITLE":"Wisdom's Fruit Part #2"
+    ,"SCRIPTURE REF":"James 3:13-18"
+  },
+  {
+     "DATE":"8-14-16"
+    ,"TITLE":"The Path to God "
+    ,"SCRIPTURE REF":"James 4:1-10"
+  },
+  {
+     "DATE":"8-21-16"
+    ,"TITLE":"How to Stay Humble in a Haughty World"
+    ,"SCRIPTURE REF":"James 4:11-17"
+  },
+  {
+     "DATE":"8-28-16"
+    ,"TITLE":"Endurance"
+    ,"SCRIPTURE REF":"James 5:1-11"
+  }
 ]
