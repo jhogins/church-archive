@@ -13,6 +13,13 @@
     <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.css'>
         <link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
     <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+    <style>
+    .tabs {
+        overflow-y: scroll;
+        height: 700px;
+    }
+    </style>
   </head>
   <body>
     <h1>RBC Sermon Archive Editor</h1>
@@ -60,6 +67,35 @@
           }
           return errors;
         });
+
+        // Specify upload handler
+        JSONEditor.defaults.options.upload = function(type, file, cbs) {
+          
+          if (type === 'root.upload_fail') cbs.failure('Upload failed');
+          else {
+            var reader = new FileReader();  
+            var xhr = new XMLHttpRequest();
+            this.xhr = xhr;
+            
+            this.xhr.upload.addEventListener("progress", function(e) {
+                if (e.lengthComputable) {
+                  var percentage = Math.round((e.loaded * 100) / e.total);
+                  cbs.updateProgress(percentage);
+                }
+              }.bind(this), false);
+            
+            xhr.upload.addEventListener("load", function(e){
+                cbs.updateProgress(100);
+              }.bind(this), false);
+            xhr.open("POST", "/uploadMp3");
+            xhr.overrideMimeType('audio/mpeg; charset=x-user-defined-binary');
+            xhr.setRequestHeader('Content-Type', 'audio/mpeg; charset=x-user-defined-binary');
+            reader.onload = function(evt) {
+              xhr.send(evt.target.result);
+            };
+            reader.readAsBinaryString(file);
+          }
+        };
 
         // Initialize the editor with a JSON schema
         var editor = new JSONEditor(document.getElementById('editor_holder'), 

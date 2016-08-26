@@ -7,7 +7,7 @@ var app = express();
 var ips = [['::1', '127.0.0.1', '192.168.*.*']];
 app.use(ipfilter(ips, {mode:'allow', excluding:['/sermonsite2']}));
 
-app.use (function(req, res, next) {
+app.use ('/sermonarchive', function(req, res, next) {
     var data='';
     req.setEncoding('utf8');
     req.on('data', function(chunk) { 
@@ -29,6 +29,21 @@ app.post('/sermonarchive', function (req, res) {
   var now = new Date();
   fs.writeFileSync('sermonsite2/archivebackups/sermonarchive-' + now.getMonth() + '-' + now.getDate() + '-' + now.getFullYear() + '.json', req.body);
   res.sendStatus(200);
+});
+
+app.use ('/uploadMp3', function(req, res, next) {
+    var data=new Buffer('');
+    req.on('data', function(chunk) { 
+       data = Buffer.concat([data, chunk]);
+    });
+
+    req.on('end', function() {
+        req.body = data;
+        next();
+    });
+});
+app.post('/uploadMp3', function (req, res) {
+  fs.writeFileSync('sermonsite2/audio.mp3', req.body, {encoding: 'binary'});
 });
 
 app.listen(80);
